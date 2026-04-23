@@ -177,8 +177,6 @@ C# / .NET Core / Angular · SQL Server + Oracle · ETL pipelines in Python · Do
 
 ## GitHub stats
 
-![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anand-Varma-838&show_icons=true&hide_border=true&count_private=true&theme=default)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anand-Varma-838&layout=compact&hide_border=true&theme=default)
 
 ---
